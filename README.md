@@ -28,7 +28,7 @@ Uma aplicação web prática e minimalista para gerar QR Codes a partir de qualq
 
 **2. Acesse a pasta do projeto:**
 
-`cd gerador_de_qrcode`
+`cd gerador-de-qrcode`
 
 **3. Abra o projeto:**
 Certifique-se de que os arquivos `index.html` e `style.css` se encontram na mesma pasta. Depois, basta abrir o arquivo `index.html` no seu navegador web de preferência e começar a gerar os seus códigos!
